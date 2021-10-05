@@ -1,0 +1,20 @@
+.iws{
+    color: hsl(152deg 68% 52%);
+    text-decoration: underline;
+}
+.about{
+    width: 50%;
+}
+.aboutus{
+    /* letter-spacing: 1px; */
+    /* font-family: 'Yaldevi', sans-serif; */
+font-size: 20px;
+    font-weight: 300;
+}
+.hr-link{
+    border: 2px solid rgba(0, 0, 0, 0.603);
+    border-radius: 10px;
+}
+.hr-link:hover{
+    background-color: rgba(155, 218, 240, 0.294);
+}

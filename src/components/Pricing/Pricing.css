@@ -1,0 +1,50 @@
+.mini-pricing{
+    color: coral;
+    font-weight: 700;
+}
+.pricing-title{
+    text-align: center;
+    margin-top: 70px;
+}
+.title-m{
+    font-family: 'Cabin', sans-serif;
+
+}
+.time{
+    font-weight: 700;
+    margin-top: 30px;
+}
+.fa-circle{
+    color: hsl(152deg 68% 52%);
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.month-pricing{
+    display: flex;
+}
+.standrad{
+    display: flex;
+  margin-left: 250px;
+  color: coral;
+}
+.standrad-p{
+    text-align: center;
+    font-weight: 700;
+
+}
+.plans{
+    margin-top: 100px;
+}
+.fa-check-circle{
+    color: hsl(152deg 68% 52%);
+}
+.fa-times-circle{
+    color: coral;
+}
+.options p{
+    font-weight: 700;
+}
+.options{
+    margin-top: 50px;
+    margin-left: 180px;
+}

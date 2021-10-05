@@ -1,0 +1,11 @@
+.four{
+    font-size: 100px;
+    color: red;
+    text-align: center;
+}
+.notFound{
+    text-align: center;
+}
+.pageNot{
+    text-decoration: red underline;
+}

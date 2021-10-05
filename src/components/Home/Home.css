@@ -1,0 +1,34 @@
+.title{
+    font-weight: 700;
+    margin-top: 180px;
+}
+.fa-check{
+    color: #0d6efd;
+}
+.mini-text{
+    font-weight: 600;
+
+}
+.popular{
+    color: hsl(13deg 100% 68%);
+    font-weight: 500;
+    
+}
+.btn-color{
+    background-color: hsl(152deg 68% 52%);
+    color: white;
+    font-weight: 600;
+}
+.btn-align{
+    margin-left: 650px;
+}
+.img-border{
+    border: 1px solid rgba(0, 0, 0, 0.274);
+    border-radius: 10px;
+}
+.students{
+    margin-top: -10px;
+}
+.fa-star{
+    color: gold;
+}
